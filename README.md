@@ -8,14 +8,14 @@ Usage
 ####1. Copy file to your project folder. root for basic, Frontend for advanced.
 
 ####2. Add code into your main.php or main-local.php file.
-    <?php
+    
     'authManager' => [
         'class' => 'yii\rbac\DbManager'
     ],
     'payPalListener' => [
         'class' => 'frontend/components/PaypalListener', 
       ],
-    ?>          
+          
           
           
 ####3. Add code in your Controller
