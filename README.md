@@ -12,9 +12,12 @@ Usage
     'authManager' => [
         'class' => 'yii\rbac\DbManager'
     ],
+    ......
+    ...
     'payPalListener' => [
         'class' => 'frontend/components/PaypalListener', 
-      ],
+     ],
+     ....
           
           
           
